@@ -42,7 +42,7 @@ global.packname =  '𝗤𝗨𝗘𝗘𝗡 Yahnn'
 //👇 Sticker Author Name
 global.author =  '_JANIYA_' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
